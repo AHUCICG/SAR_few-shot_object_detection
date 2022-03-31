@@ -1,0 +1,5 @@
+AP for airplane = 0.0000Recall for airplane = 0.0000Precision for airplane = 0.0000AP for airplane = 0.0000Recall for airplane = 0.0000Precision for airplane = 0.0000AP for airplane = 0.0Recall for airplane = 0Precision for airplane = 0AP for airplane = 0.0Recall for airplane = 0Precision for airplane = 0===============fewshot===============
+AP for airplane = 0.0Recall for airplane = 0Precision for airplane = 0===============fewshot===============
+AP for airplane=0.0Recall for airplane=0Precision for airplane=0===============fewshot===============
+AP for airplane=0.0Recall for airplane=0Precision for airplane=0===============fewshot===============
+AP for airplane=0.0Recall for airplane=0Precision for airplane=0

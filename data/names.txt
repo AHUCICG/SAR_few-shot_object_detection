@@ -1,0 +1,4 @@
+ship
+airplane
+oil-tank
+bridge

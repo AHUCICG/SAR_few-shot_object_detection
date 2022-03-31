@@ -1,0 +1,15 @@
+metayolo=1
+metain_type=2
+data=tank
+neg = 1
+rand = 0
+novel = E:/few_shot/FSODM-tank/data/tank_novels.txt
+novelid = 0
+learning_rate=0.001
+steps=-1,64000
+scales=1,0.1
+meta = data/tank_traindict_full.txt
+train = E:/few_shot/FSODM-tank/data/training.txt
+valid = E:/few_shot/FSODM-tank/data/evaluation.txt
+backup =  backup/fewyolov3_tank
+gpus=0,1

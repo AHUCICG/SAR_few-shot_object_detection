@@ -1,0 +1,16 @@
+metayolo=1
+metain_type=2
+data=plane
+neg = 1
+rand = 0
+novel = data/plane_novels.txt
+novelid = 0
+learning_rate=0.001
+steps=-1,64000
+scales=1,0.1
+meta = data/plane_traindict_full.txt
+train = /home/zz/PycharmProjects/FSODM-plane/data/training.txt
+valid = /home/zz/PycharmProjects/FSODM-plane/data/evaluation.txt
+backup =  backup/fewyolov3_plane
+gpus=0
+num_workers=8
